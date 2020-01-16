@@ -1,0 +1,41 @@
+.head {
+    background-color: whitesmoke;
+    widows: 100px;
+    height: 80px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+
+.maincontainr {
+    background-color: white;
+    border: solid gray;
+}
+
+
+.passbox {
+    border-top: 2px solid grey;   
+}
+ 
+textarea {
+    width: 600px;
+    height: 150px;
+} 
+    
+    
+    
+
+
+button {
+    background:grey;
+    height: 40px;
+    border-top: 2px solid grey;
+}
+hr {
+    height: 20px;
+    color: grey;
+    
+}
+::placeholder {
+    text-align: center;
+}
